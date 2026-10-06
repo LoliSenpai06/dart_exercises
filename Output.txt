@@ -1,0 +1,8 @@
+--- Basic calculator ---
+Operand A: 45 | Operand B: 12.5
+Scientific Mode: false
+Addition (45 + 12.5): 57.5
+Modulus (45 % 7): 3
+Integer Division (45 ~/ 4): 11
+Is the sum greater than 50? true
+Is the remainder zero? false
