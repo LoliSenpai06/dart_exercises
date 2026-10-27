@@ -90,8 +90,6 @@ class ExpressTrain extends Lrt2Train with PassengerMessaging {
   }
 }
 
-// This class is not part of the Lrt2Train inheritance chain,
-// but it can still use the mixin.
 class StationKiosk with PassengerMessaging {}
 
 void main() {
